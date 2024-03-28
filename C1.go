@@ -1,0 +1,3 @@
+modalidad
+ready
+set
